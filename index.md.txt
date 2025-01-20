@@ -1,4 +1,7 @@
 # welcome to my website
+
+!(https://myoctocat.com/assets/images/base-octocat.svg)
+
 ## these are the things to do
  - get milk
 - Pick up toddler
